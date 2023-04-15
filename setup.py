@@ -20,7 +20,7 @@ def get_packages(filepath: str) -> List[str]:
 
 
 setup(
-    name='digit-recognition',
+    name='student_management',
     version='0.0.1',
     author='Saptarshi',
     author_email='bandopadhyaysaptarshi@gmail.com',
