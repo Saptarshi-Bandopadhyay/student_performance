@@ -1,1 +1,1 @@
-# Digit recognition machine learning project
+# Student marks prediction model
